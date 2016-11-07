@@ -26,13 +26,13 @@
   },
   "homepage": "https://github.com/floatdrop/bem-object",
   "devDependencies": {
-    "mocha": "^1.21.4",
+    "mocha": "^3.1.2",
     "coveralls": "^2.7.0",
-    "should": "^4.0.4",
-    "istanbul": "^0.3.0",
-    "mocha-lcov-reporter": "^0.0.1"
+    "should": "^11.1.1",
+    "istanbul": "^0.4.5",
+    "mocha-lcov-reporter": "^1.2.0"
   },
   "dependencies": {
-    "bem-naming": "^0.4.0"
+    "bem-naming": "^1.0.1"
   }
 }
